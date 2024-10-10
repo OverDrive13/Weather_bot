@@ -10,3 +10,4 @@ python3 -m venv env source env/bin/activate
 Установить зависимости из файла requirements.txt:
 pip install -r requirements.txt
 
+Заполнить .env файл
